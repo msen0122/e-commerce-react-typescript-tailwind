@@ -3,7 +3,7 @@ import { Card } from 'antd';
 
 const { Meta } = Card;
 
-const CardGift: React.FC = () => (
+const CardGift  = () => (
   <Card
     hoverable
     style={{ width: 240 }}

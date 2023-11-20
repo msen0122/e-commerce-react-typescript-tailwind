@@ -27,6 +27,11 @@ const Home = () => {
                         <CardGift/>
                     </div>
                 </Col>
+                <Col className="gutter-row" span={6}>
+                    <div>
+                        <CardGift/>
+                    </div>
+                </Col>
                 </Row>
             </Space>
         </div>
