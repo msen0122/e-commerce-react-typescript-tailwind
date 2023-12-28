@@ -1,6 +1,7 @@
 import React from 'react';
 import CardGift from './cards/CardGift';
 import { Space, Row, Col, Divider } from 'antd';
+import Login from '../login/Login';
 
 const Home = () => {
     return (
