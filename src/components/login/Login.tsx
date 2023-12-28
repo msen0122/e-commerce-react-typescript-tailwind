@@ -17,7 +17,7 @@ type FieldType = {
 
 const Login: React.FC = () => {
   return (
-    <div className='mt-10 mb-10 mx-56 '>
+    <div className='mt-10 mb-10 mx-56'>
       <Form
         name="basic"
         labelCol={{ span: 8 }}
